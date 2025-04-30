@@ -1,1 +1,2 @@
-# os-project
+# OS scheduler simulator
+The OS Scheduler Simulator demonstrates core operating system concepts in a desktop application. Users load up to three custom instruction files containing commands like print, assign, writeFile, readFile, printFromTo, semWait, and semSignal. Each process is allocated a fixed block of memory for its instructions, variables, and PCB. The simulator tracks processes through states (Ready, Running, Blocked, Terminated) and schedules them according to the selected algorithm. The GTK3 GUI provides real-time views of the process list, ready/blocked queues, mutex status, memory allocation, and an execution log, as well as controls to start, step through, pause, or reset the simulation and to choose scheduling parameters.
