@@ -1,0 +1,13 @@
+window { background-color: #f0f0f0; }
+button { padding: 5px; margin: 2px; }
+label { font-weight: bold; }
+treeview { font-family: monospace; }
+
+
+entry#quantum_entry {
+    min-width: 60px; /* Use min-width instead of width */
+}
+
+label#quantum_label {
+    margin-right: 5px;
+}
