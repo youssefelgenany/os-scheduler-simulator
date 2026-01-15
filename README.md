@@ -408,7 +408,3 @@ This project was developed as a part of the GUC operating systems course. The fo
   - GNU Make documentation
   - pkg-config usage guides
 
-**Acknowledgments:**
-- GTK+ development team for the excellent GUI framework
-- Open source community for various code examples and tutorials
-- Educational resources on operating system concepts
